@@ -1,0 +1,51 @@
+{
+  "associatedLayout": "level1",
+  "name": "UI Layout",
+  "instances": [
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "UI Layer",
+      "name": "Fried_Egg",
+      "persistentUuid": "fa9b0607-eb1c-4eed-96a7-071ac7f7920d",
+      "width": 0,
+      "x": 12,
+      "y": 8,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "UI Layer",
+      "name": "text_eggcounter",
+      "persistentUuid": "81a303ed-044d-4d6c-9b6c-1791bf12752d",
+      "width": 0,
+      "x": 34,
+      "y": 3,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    }
+  ],
+  "editionSettings": {
+    "grid": false,
+    "gridType": "rectangular",
+    "gridWidth": 32,
+    "gridHeight": 32,
+    "gridOffsetX": 0,
+    "gridOffsetY": 0,
+    "gridColor": 10401023,
+    "gridAlpha": 0.8,
+    "snap": false,
+    "zoomFactor": 1.928431685517361,
+    "windowMask": false
+  }
+}

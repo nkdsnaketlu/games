@@ -1,0 +1,1203 @@
+{
+  "firstLayout": "",
+  "gdVersion": {
+    "build": 242,
+    "major": 5,
+    "minor": 5,
+    "revision": 0
+  },
+  "properties": {
+    "adaptGameResolutionAtRuntime": true,
+    "antialiasingMode": "MSAA",
+    "antialisingEnabledOnMobile": false,
+    "folderProject": true,
+    "orientation": "landscape",
+    "packageName": "com.example.gamename",
+    "pixelsRounding": false,
+    "projectUuid": "75b64327-1421-4478-95a1-f2efa60d22cf",
+    "scaleMode": "nearest",
+    "sizeOnStartupMode": "adaptWidth",
+    "templateSlug": "",
+    "version": "1.0.0",
+    "name": "Aboba",
+    "description": "",
+    "author": "",
+    "windowWidth": 1280,
+    "windowHeight": 720,
+    "latestCompilationDirectory": "",
+    "maxFPS": 60,
+    "minFPS": 20,
+    "verticalSync": false,
+    "platformSpecificAssets": {
+      "android-icon-144": "",
+      "android-icon-192": "",
+      "android-icon-36": "",
+      "android-icon-48": "",
+      "android-icon-72": "",
+      "android-icon-96": "",
+      "android-windowSplashScreenAnimatedIcon": "",
+      "desktop-icon-512": "",
+      "ios-icon-100": "",
+      "ios-icon-1024": "",
+      "ios-icon-114": "",
+      "ios-icon-120": "",
+      "ios-icon-144": "",
+      "ios-icon-152": "",
+      "ios-icon-167": "",
+      "ios-icon-180": "",
+      "ios-icon-20": "",
+      "ios-icon-29": "",
+      "ios-icon-40": "",
+      "ios-icon-50": "",
+      "ios-icon-57": "",
+      "ios-icon-58": "",
+      "ios-icon-60": "",
+      "ios-icon-72": "",
+      "ios-icon-76": "",
+      "ios-icon-80": "",
+      "ios-icon-87": ""
+    },
+    "loadingScreen": {
+      "backgroundColor": 0,
+      "backgroundFadeInDuration": 0.2,
+      "backgroundImageResourceName": "",
+      "gdevelopLogoStyle": "light",
+      "logoAndProgressFadeInDuration": 0.2,
+      "logoAndProgressLogoFadeInDelay": 0,
+      "minDuration": 1.5,
+      "progressBarColor": 16777215,
+      "progressBarHeight": 20,
+      "progressBarMaxWidth": 200,
+      "progressBarMinWidth": 40,
+      "progressBarWidthPercent": 30,
+      "showGDevelopSplash": true,
+      "showProgressBar": true
+    },
+    "watermark": {
+      "placement": "bottom-left",
+      "showWatermark": true
+    },
+    "authorIds": [],
+    "authorUsernames": [],
+    "categories": [],
+    "playableDevices": [],
+    "extensionProperties": [],
+    "platforms": [
+      {
+        "name": "GDevelop JS platform"
+      }
+    ],
+    "currentPlatform": "GDevelop JS platform"
+  },
+  "resources": {
+    "resources": [
+      {
+        "file": "assets/Cowboy_Attack.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cowboy_Attack.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Character/5c496275dedee7e7e985c7f2787ff110e2e7bf47194b80209b1b451eb8c5f000_Cowboy_Attack.png",
+          "name": "Cowboy_Attack.png"
+        }
+      },
+      {
+        "file": "assets/Cowboy_Dead.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cowboy_Dead.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Character/049b39e77750c68d9eb879c2c6371791d26245b976d2bb8a1ff9eb7861db4c25_Cowboy_Dead.png",
+          "name": "Cowboy_Dead.png"
+        }
+      },
+      {
+        "file": "assets/Cowboy_Hurt.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cowboy_Hurt.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Character/cb262c0b155ef9521d04c5c122f76c02409fc1877bc4c714722a438aa5c9f705_Cowboy_Hurt.png",
+          "name": "Cowboy_Hurt.png"
+        }
+      },
+      {
+        "file": "assets/Cowboy_Idle.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Cowboy_Idle.png\",\"extension\":\".png\"}",
+        "name": "Cowboy_Idle.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Character/71e11f3f292174636605d61e5e0278688f86b2df08193d1b95e68730e062e01e_Cowboy_Idle.png",
+          "name": "Cowboy_Idle.png"
+        }
+      },
+      {
+        "file": "assets/Cowboy_Walk_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cowboy_Walk_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Character/cbfdc7caca488d9dd1437efb92f436dbdaddf8b1ab19181f2a867af53e0c1bd7_Cowboy_Walk_1.png",
+          "name": "Cowboy_Walk_1.png"
+        }
+      },
+      {
+        "file": "assets/Cowboy_Walk_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cowboy_Walk_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Character/71e11f3f292174636605d61e5e0278688f86b2df08193d1b95e68730e062e01e_Cowboy_Walk_2.png",
+          "name": "Cowboy_Walk_2.png"
+        }
+      },
+      {
+        "file": "assets/Cowboy_Walk_3.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Cowboy_Walk_3.png\",\"extension\":\".png\"}",
+        "name": "Cowboy_Walk_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Character/8abf9af782f69d3356d1cd16b66b7b81b6a0ffad61e1b3f27ca5f14f3e3e11a0_Cowboy_Walk_3.png",
+          "name": "Cowboy_Walk_3.png"
+        }
+      },
+      {
+        "file": "assets/Tilemap_terrain.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tilemap_terrain.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Kenney New Platformer Pack 1.0/Tilemap/9b627f6dd19701b59e1ffc1310bce631b2c8b757264991288ffb1143f8e39a8d_Tilemap_terrain.png",
+          "name": "Tilemap_terrain.png"
+        }
+      },
+      {
+        "file": "assets/Wood Platform.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wood Platform.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Terrain/b5ea910fe2de325b41bee2f4fe85fddabde4eb137c05b1b2096edfc64127d93e_Wood Platform.png",
+          "name": "Wood Platform.png"
+        }
+      },
+      {
+        "file": "assets/9patch_Orange Grass 9Patch_all_16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "9patch_Orange Grass 9Patch_all_16.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Terrain/3a3a78f6934ffc19ea65f93bd09e4e3d83d3c3d5fd73331bdeedd8b133d90d94_9patch_Orange Grass 9Patch_all_16.png",
+          "name": "9patch_Orange Grass 9Patch_all_16.png"
+        }
+      },
+      {
+        "file": "assets/Stone Platform.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Stone Platform.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Terrain/8d43fc0268490e243d8a113c159d6e3a32cd6be05019ae18d7987e28802bfb87_Stone Platform.png",
+          "name": "Stone Platform.png"
+        }
+      },
+      {
+        "file": "assets/Cowboy_Idle2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Cowboy_Idle2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewTiledSprite.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Nimetu.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Nimetu.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Fried Egg.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fried Egg.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 RPG Item Pack/Food/fee4f83e69a815e2fa0e208a021705ef39be02039ad1bf5baee3c53df7ffaadf_Fried Egg.png",
+          "name": "Fried Egg.png"
+        }
+      },
+      {
+        "file": "assets/Idle.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Idle.png\"}",
+        "name": "Idle",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Idle2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Idle2.png\"}",
+        "name": "Idle2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Cowboy_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Cowboy_Idle.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Idle3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Idle3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Idle4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Idle4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Idle.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Idle2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Idle2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Smart gunman_Attack.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Smart gunman_Attack.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Character/1afc2349aff3de89693ec488ce15d1320c0fb2a916ac51bb8e5cf2cfbe00e9fe_Smart gunman_Attack.png",
+          "name": "Smart gunman_Attack.png"
+        }
+      },
+      {
+        "file": "assets/Smart gunman_Dead.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Smart gunman_Dead.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Character/c6cc20a57fdccdeca22246c92cc4c08df99b31aeb7ea7a8297f594dcf73112d5_Smart gunman_Dead.png",
+          "name": "Smart gunman_Dead.png"
+        }
+      },
+      {
+        "file": "assets/Smart gunman_Hit.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Smart gunman_Hit.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Character/daf74eca215e76d9ae242011da9a07cf5b9dc6a04131336dc06e73573eea872c_Smart gunman_Hit.png",
+          "name": "Smart gunman_Hit.png"
+        }
+      },
+      {
+        "file": "assets/Smart gunman_Idle.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Smart gunman_Idle.png\",\"extension\":\".png\"}",
+        "name": "Smart gunman_Idle.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Character/be93704c99c582ca220af3f4e3e765a549434dc24ef31bdca28201f62765e4d1_Smart gunman_Idle.png",
+          "name": "Smart gunman_Idle.png"
+        }
+      },
+      {
+        "file": "assets/Smart gunman_Walk_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Smart gunman_Walk_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Character/25a2d21d32992a4bbca975ae2892f360bc05db94e9c0511641806449f061feaa_Smart gunman_Walk_1.png",
+          "name": "Smart gunman_Walk_1.png"
+        }
+      },
+      {
+        "file": "assets/Smart gunman_Walk_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Smart gunman_Walk_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Character/be93704c99c582ca220af3f4e3e765a549434dc24ef31bdca28201f62765e4d1_Smart gunman_Walk_2.png",
+          "name": "Smart gunman_Walk_2.png"
+        }
+      },
+      {
+        "file": "assets/Smart gunman_Walk_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Smart gunman_Walk_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Character/859eb98cb0ac0b83ccf37442a0415269636bfe9c860889ff97e73abd19022d9d_Smart gunman_Walk_3.png",
+          "name": "Smart gunman_Walk_3.png"
+        }
+      },
+      {
+        "file": "assets/Idle5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Idle5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Walk.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Walk2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Cowboy_Hurt.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Cowboy_Hurt.png",
+        "smoothed": false,
+        "userAdded": false
+      }
+    ],
+    "resourceFolders": []
+  },
+  "objects": [
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "8242d82b07b9d5cf7e6c6560f02121500d2719eb7689f4713c00eb292a1a7d57",
+      "name": "Fried_Egg",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Fried Egg.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 2
+                      },
+                      {
+                        "x": 16,
+                        "y": 2
+                      },
+                      {
+                        "x": 16,
+                        "y": 14
+                      },
+                      {
+                        "x": 0,
+                        "y": 14
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "143ab3abb78730820c767f11a284666c5d838ddcc3c6be78d655778bcec94bd4",
+      "name": "Cowboy",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior",
+          "acceleration": 1500,
+          "canGoDownFromJumpthru": true,
+          "canGrabPlatforms": false,
+          "canGrabWithoutMoving": true,
+          "deceleration": 1500,
+          "gravity": 1000,
+          "ignoreDefaultControls": false,
+          "jumpSpeed": 600,
+          "jumpSustainTime": 0.2,
+          "ladderClimbingSpeed": 150,
+          "maxFallingSpeed": 700,
+          "maxSpeed": 250,
+          "slopeMaxAngle": 60,
+          "useLegacyTrajectory": false,
+          "useRepeatedJump": false,
+          "xGrabTolerance": 10,
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "Idle",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.5,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Idle.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 4,
+                        "y": 17
+                      },
+                      {
+                        "x": 57,
+                        "y": 17
+                      },
+                      {
+                        "x": 57,
+                        "y": 61
+                      },
+                      {
+                        "x": 4,
+                        "y": 61
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Idle2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 4,
+                        "y": 17
+                      },
+                      {
+                        "x": 57,
+                        "y": 17
+                      },
+                      {
+                        "x": 57,
+                        "y": 61
+                      },
+                      {
+                        "x": 4,
+                        "y": 61
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Walk",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.1667,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Walk",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 4,
+                        "y": 17
+                      },
+                      {
+                        "x": 57,
+                        "y": 17
+                      },
+                      {
+                        "x": 57,
+                        "y": 61
+                      },
+                      {
+                        "x": 4,
+                        "y": 61
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Walk2",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 4,
+                        "y": 17
+                      },
+                      {
+                        "x": 57,
+                        "y": 17
+                      },
+                      {
+                        "x": 57,
+                        "y": 61
+                      },
+                      {
+                        "x": 4,
+                        "y": 61
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Hurt",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Cowboy_Hurt.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 4,
+                        "y": 17
+                      },
+                      {
+                        "x": 57,
+                        "y": 17
+                      },
+                      {
+                        "x": 57,
+                        "y": 61
+                      },
+                      {
+                        "x": 4,
+                        "y": 61
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Attack",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Cowboy_Attack.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 4,
+                        "y": 17
+                      },
+                      {
+                        "x": 57,
+                        "y": 17
+                      },
+                      {
+                        "x": 57,
+                        "y": 61
+                      },
+                      {
+                        "x": 4,
+                        "y": 61
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dead",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 1,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Cowboy_Hurt.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 4,
+                        "y": 17
+                      },
+                      {
+                        "x": 57,
+                        "y": 17
+                      },
+                      {
+                        "x": 57,
+                        "y": 61
+                      },
+                      {
+                        "x": 4,
+                        "y": 61
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Cowboy_Dead.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 4,
+                        "y": 17
+                      },
+                      {
+                        "x": 57,
+                        "y": 17
+                      },
+                      {
+                        "x": 57,
+                        "y": 61
+                      },
+                      {
+                        "x": 4,
+                        "y": 61
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "a",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Nimetu.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 4,
+                        "y": 17
+                      },
+                      {
+                        "x": 57,
+                        "y": 17
+                      },
+                      {
+                        "x": 57,
+                        "y": 61
+                      },
+                      {
+                        "x": 4,
+                        "y": 61
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "319522814a301a2649784df125b9fbe6104f7b11f7b81455995f2a38ac40c3dd",
+      "name": "Wood_Platform",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Wood Platform.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 48,
+                        "y": 0
+                      },
+                      {
+                        "x": 48,
+                        "y": 5
+                      },
+                      {
+                        "x": 0,
+                        "y": 5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "92d63781ba23572df91b5dc4093b6825f8aab015160bd715265d73a319c29b6b",
+      "bottomMargin": 16,
+      "height": 48,
+      "leftMargin": 16,
+      "name": "Orange_Grass_9Patch",
+      "rightMargin": 16,
+      "texture": "9patch_Orange Grass 9Patch_all_16.png",
+      "tiled": true,
+      "topMargin": 16,
+      "type": "PanelSpriteObject::PanelSprite",
+      "width": 48,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 0
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "f91c3c26a7e69da7f2b52fd54f3c9d9ce47042a4876575c7afc552f8288e18a1",
+      "name": "Stone_Platform",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "Jumpthru",
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Stone Platform.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 48,
+                        "y": 0
+                      },
+                      {
+                        "x": 48,
+                        "y": 5
+                      },
+                      {
+                        "x": 0,
+                        "y": 5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "height": 32,
+      "name": "NewTiledSprite",
+      "texture": "NewTiledSprite",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 32,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    },
+    {
+      "assetStoreId": "5577d988f6888d4a113aca62fff9797b9a71c494d2a25df6e1203054f9a7f624",
+      "name": "Tilemap_terrain",
+      "type": "TileMap::SimpleTileMap",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "atlasImage": "Tilemap_terrain.png",
+        "rowCount": 18,
+        "columnCount": 9,
+        "tileSize": 64,
+        "tilesWithHitBox": "9,18,10,19,11,20,12,21,13,14,23,6,15,24,7,16,25,8,17,26,4,5,3,2,1,0,27,36,45,28,37,46,29,38,47,31,40,49,33,42,51,34,43,52,35,44,53,60,69,78,61,70,79,62,71,80,59,68,77,54,63,72,55,64,73,56,65,74,57,66,75,58,67,81,90,99,82,91,100,83,92,101,87,96,105,88,97,106,89,98,107,108,117,109,118,110,119,111,120,112,121,113,122,114,123,115,124,116,125,126,127,128,129,131,132,133,134,141,150,159,142,151,160,143,152,161,135,144,153,136,145,154,137,146,155"
+      }
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "text_eggcounter",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "",
+      "font": "",
+      "textAlignment": "left",
+      "characterSize": 20,
+      "color": {
+        "b": 0,
+        "g": 0,
+        "r": 0
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": false,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "255;255;255",
+        "outlineThickness": 2,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "",
+        "font": "",
+        "textAlignment": "left",
+        "verticalTextAlignment": "top",
+        "characterSize": 20,
+        "lineHeight": 0,
+        "color": "0;0;0"
+      }
+    }
+  ],
+  "objectsFolderStructure": {
+    "folderName": "__ROOT",
+    "children": [
+      {
+        "objectName": "Fried_Egg"
+      },
+      {
+        "objectName": "Cowboy"
+      },
+      {
+        "objectName": "Wood_Platform"
+      },
+      {
+        "objectName": "Orange_Grass_9Patch"
+      },
+      {
+        "objectName": "Stone_Platform"
+      },
+      {
+        "objectName": "NewTiledSprite"
+      },
+      {
+        "objectName": "Tilemap_terrain"
+      },
+      {
+        "objectName": "text_eggcounter"
+      }
+    ]
+  },
+  "objectsGroups": [],
+  "variables": [
+    {
+      "name": "eggCount",
+      "type": "number",
+      "value": 0
+    }
+  ],
+  "layouts": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/level1"
+    }
+  ],
+  "externalEvents": [],
+  "eventsFunctionsExtensions": [],
+  "externalLayouts": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/externalLayouts/ui-layout"
+    }
+  ]
+}
