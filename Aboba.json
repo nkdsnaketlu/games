@@ -430,6 +430,222 @@
         "name": "assets\\Cowboy_Hurt.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "assets/Spikes.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Spikes.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Spikes/9728e7ce3b9e8fc40dd7f91a8553a1d6818f5e4026cdbe05293716d4fc796b12_Spikes.png",
+          "name": "Spikes.png"
+        }
+      },
+      {
+        "file": "assets/Big Chain_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big Chain_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Big Chain/95b1531ecafae6cb1d071d9925f236125f82294cc71935285914e1800a602413_Big Chain_1.png",
+          "name": "Big Chain_1.png"
+        }
+      },
+      {
+        "file": "assets/Big Chain_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big Chain_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Big Chain/1d5888c3dee8b8ada6ec97003ec89161a8ff6023fd769c318125a235e344d57c_Big Chain_10.png",
+          "name": "Big Chain_10.png"
+        }
+      },
+      {
+        "file": "assets/Big Chain_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big Chain_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Big Chain/95b1531ecafae6cb1d071d9925f236125f82294cc71935285914e1800a602413_Big Chain_2.png",
+          "name": "Big Chain_2.png"
+        }
+      },
+      {
+        "file": "assets/Big Chain_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big Chain_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Big Chain/2d291774b69890fa8f3b4962eaf2354e4f8b655b2d8dc6f690c339fa56ab45f9_Big Chain_3.png",
+          "name": "Big Chain_3.png"
+        }
+      },
+      {
+        "file": "assets/Big Chain_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big Chain_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Big Chain/2d291774b69890fa8f3b4962eaf2354e4f8b655b2d8dc6f690c339fa56ab45f9_Big Chain_4.png",
+          "name": "Big Chain_4.png"
+        }
+      },
+      {
+        "file": "assets/Big Chain_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big Chain_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Big Chain/e58e03bc8f78d293efcb9554056ee20f93eb4a69ae2f841053437597db0fd8bf_Big Chain_5.png",
+          "name": "Big Chain_5.png"
+        }
+      },
+      {
+        "file": "assets/Big Chain_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big Chain_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Big Chain/e58e03bc8f78d293efcb9554056ee20f93eb4a69ae2f841053437597db0fd8bf_Big Chain_6.png",
+          "name": "Big Chain_6.png"
+        }
+      },
+      {
+        "file": "assets/Big Chain_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big Chain_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Big Chain/2f11eda68fad54b1ce4e8bd727aba85741f480d19a4f8f771650c8c6de89d192_Big Chain_7.png",
+          "name": "Big Chain_7.png"
+        }
+      },
+      {
+        "file": "assets/Big Chain_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big Chain_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Big Chain/2f11eda68fad54b1ce4e8bd727aba85741f480d19a4f8f771650c8c6de89d192_Big Chain_8.png",
+          "name": "Big Chain_8.png"
+        }
+      },
+      {
+        "file": "assets/Big Chain_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big Chain_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Big Chain/bea5dd095105762fb520967ee21bde95668d036aa3261f1415815bcea845b0c1_Big Chain_9.png",
+          "name": "Big Chain_9.png"
+        }
+      },
+      {
+        "file": "assets/Gun Man_Attack.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Gun Man_Attack.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Character/a450b03f4b97671f882fe5bb867f792d1ac5d51f8966a55f10d2c9ada5797a3b_Gun Man_Attack.png",
+          "name": "Gun Man_Attack.png"
+        }
+      },
+      {
+        "file": "assets/Gun Man_Dead.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Gun Man_Dead.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Character/6447b5d42caeaa3422853fee6eb4419ba288f040d87075220d678e00d5a00531_Gun Man_Dead.png",
+          "name": "Gun Man_Dead.png"
+        }
+      },
+      {
+        "file": "assets/Gun Man_Hit.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Gun Man_Hit.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Character/e35fd7f398761f0099b62ab64cddb882c0dba204bb236bec46ed8b3f080b5fb7_Gun Man_Hit.png",
+          "name": "Gun Man_Hit.png"
+        }
+      },
+      {
+        "file": "assets/Gun Man_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Gun Man_Idle.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Character/e0e328342fb5ab17f2a1b89a48f87c5644fdec457358e197c4fd66be8e98bc63_Gun Man_Idle.png",
+          "name": "Gun Man_Idle.png"
+        }
+      },
+      {
+        "file": "assets/Gun Man_Walk_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Gun Man_Walk_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Character/1464d702cc0c4aa6af3bd57e905e118d0feff2979c2c7f041759a9596a32fe29_Gun Man_Walk_1.png",
+          "name": "Gun Man_Walk_1.png"
+        }
+      },
+      {
+        "file": "assets/Gun Man_Walk_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Gun Man_Walk_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Character/bc8a182c362ac32ef9484462a73c98c9fb3320179d974dfcdd1494f84d244917_Gun Man_Walk_2.png",
+          "name": "Gun Man_Walk_2.png"
+        }
+      },
+      {
+        "file": "assets/Gun Man_Walk_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Gun Man_Walk_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Character/f84a86e4b4c2ad16171528eb823773006e770db2d18bd86ef4e1563750fdbb32_Gun Man_Walk_3.png",
+          "name": "Gun Man_Walk_3.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -935,7 +1151,15 @@
       "updateIfNotVisible": false,
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "canBeGrabbed": true,
+          "name": "Platform",
+          "platformType": "Jumpthru",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "yGrabOffset": 0
+        }
+      ],
       "animations": [
         {
           "name": "",
@@ -1147,6 +1371,841 @@
         "lineHeight": 0,
         "color": "0;0;0"
       }
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "6af96542868f96d7ba0c29e9e92051a6a3cb1b28f260fe66504506fdc2ad93ea",
+      "name": "Smart_gunman",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior",
+          "acceleration": 1500,
+          "canGoDownFromJumpthru": true,
+          "canGrabPlatforms": false,
+          "canGrabWithoutMoving": true,
+          "deceleration": 1500,
+          "gravity": 1000,
+          "ignoreDefaultControls": true,
+          "jumpSpeed": 600,
+          "jumpSustainTime": 0.2,
+          "ladderClimbingSpeed": 150,
+          "maxFallingSpeed": 700,
+          "maxSpeed": 250,
+          "slopeMaxAngle": 60,
+          "useLegacyTrajectory": false,
+          "useRepeatedJump": false,
+          "xGrabTolerance": 10,
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "Idle",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.5,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Idle5",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 11,
+                        "y": 9
+                      },
+                      {
+                        "x": 49,
+                        "y": 9
+                      },
+                      {
+                        "x": 49,
+                        "y": 61
+                      },
+                      {
+                        "x": 11,
+                        "y": 61
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Smart gunman_Idle.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 11,
+                        "y": 9
+                      },
+                      {
+                        "x": 49,
+                        "y": 9
+                      },
+                      {
+                        "x": 49,
+                        "y": 61
+                      },
+                      {
+                        "x": 11,
+                        "y": 61
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Walk",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.1667,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Smart gunman_Walk_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 11,
+                        "y": 9
+                      },
+                      {
+                        "x": 49,
+                        "y": 9
+                      },
+                      {
+                        "x": 49,
+                        "y": 61
+                      },
+                      {
+                        "x": 11,
+                        "y": 61
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Smart gunman_Walk_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 11,
+                        "y": 9
+                      },
+                      {
+                        "x": 49,
+                        "y": 9
+                      },
+                      {
+                        "x": 49,
+                        "y": 61
+                      },
+                      {
+                        "x": 11,
+                        "y": 61
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Smart gunman_Walk_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 11,
+                        "y": 9
+                      },
+                      {
+                        "x": 49,
+                        "y": 9
+                      },
+                      {
+                        "x": 49,
+                        "y": 61
+                      },
+                      {
+                        "x": 11,
+                        "y": 61
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Hit",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Smart gunman_Hit.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 11,
+                        "y": 9
+                      },
+                      {
+                        "x": 49,
+                        "y": 9
+                      },
+                      {
+                        "x": 49,
+                        "y": 61
+                      },
+                      {
+                        "x": 11,
+                        "y": 61
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Attack",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Smart gunman_Attack.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 11,
+                        "y": 9
+                      },
+                      {
+                        "x": 49,
+                        "y": 9
+                      },
+                      {
+                        "x": 49,
+                        "y": 61
+                      },
+                      {
+                        "x": 11,
+                        "y": 61
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dead",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Smart gunman_Dead.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 11,
+                        "y": 9
+                      },
+                      {
+                        "x": 49,
+                        "y": 9
+                      },
+                      {
+                        "x": 49,
+                        "y": 61
+                      },
+                      {
+                        "x": 11,
+                        "y": 61
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "ad5eec3101f5acd69d381481f39db03d7eabbf96c9681c66bee04f5e78f38a85",
+      "name": "Spikes",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Spikes.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 9
+                      },
+                      {
+                        "x": 15,
+                        "y": 9
+                      },
+                      {
+                        "x": 15,
+                        "y": 16
+                      },
+                      {
+                        "x": 0,
+                        "y": 16
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "bafecbfb52eedf22e7682c633bf69f366f052d5c4d8ea7dbd800e135e3393c9f",
+      "name": "Big_Chain",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "canBeGrabbed": true,
+          "name": "Platform",
+          "platformType": "NormalPlatform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.1,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Big Chain_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 9,
+                        "y": 0
+                      },
+                      {
+                        "x": 9,
+                        "y": 100
+                      },
+                      {
+                        "x": 0,
+                        "y": 100
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Big Chain_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 9,
+                        "y": 0
+                      },
+                      {
+                        "x": 9,
+                        "y": 100
+                      },
+                      {
+                        "x": 0,
+                        "y": 100
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Big Chain_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 9,
+                        "y": 0
+                      },
+                      {
+                        "x": 9,
+                        "y": 100
+                      },
+                      {
+                        "x": 0,
+                        "y": 100
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Big Chain_4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 9,
+                        "y": 0
+                      },
+                      {
+                        "x": 9,
+                        "y": 100
+                      },
+                      {
+                        "x": 0,
+                        "y": 100
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Big Chain_5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 9,
+                        "y": 0
+                      },
+                      {
+                        "x": 9,
+                        "y": 100
+                      },
+                      {
+                        "x": 0,
+                        "y": 100
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Big Chain_6.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 9,
+                        "y": 0
+                      },
+                      {
+                        "x": 9,
+                        "y": 100
+                      },
+                      {
+                        "x": 0,
+                        "y": 100
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Big Chain_7.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 9,
+                        "y": 0
+                      },
+                      {
+                        "x": 9,
+                        "y": 100
+                      },
+                      {
+                        "x": 0,
+                        "y": 100
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Big Chain_8.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 9,
+                        "y": 0
+                      },
+                      {
+                        "x": 9,
+                        "y": 100
+                      },
+                      {
+                        "x": 0,
+                        "y": 100
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Big Chain_9.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 9,
+                        "y": 0
+                      },
+                      {
+                        "x": 9,
+                        "y": 100
+                      },
+                      {
+                        "x": 0,
+                        "y": 100
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Big Chain_10.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 9,
+                        "y": 0
+                      },
+                      {
+                        "x": 9,
+                        "y": 100
+                      },
+                      {
+                        "x": 0,
+                        "y": 100
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -1175,6 +2234,15 @@
       },
       {
         "objectName": "text_eggcounter"
+      },
+      {
+        "objectName": "Smart_gunman"
+      },
+      {
+        "objectName": "Spikes"
+      },
+      {
+        "objectName": "Big_Chain"
       }
     ]
   },
@@ -1190,6 +2258,10 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/level1"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/level2"
     }
   ],
   "externalEvents": [],

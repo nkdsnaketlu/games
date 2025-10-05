@@ -1,8 +1,8 @@
 {
   "b": 209,
   "disableInputWhenNotFocused": true,
-  "mangledName": "level1",
-  "name": "level1",
+  "mangledName": "level2",
+  "name": "level2",
   "r": 209,
   "standardSortMethod": true,
   "stopSoundsOnStartup": true,
@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.8141881203709959,
+    "zoomFactor": 1.5289132892233253,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -28,15 +28,15 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 283,
+      "height": 680,
       "keepRatio": true,
       "layer": "",
       "name": "Orange_Grass_9Patch",
-      "persistentUuid": "b0172335-f9b3-458a-8c6e-b2fa33806f39",
-      "width": 529,
-      "x": 151,
-      "y": 671,
-      "zOrder": 10,
+      "persistentUuid": "70f5ac9a-aa9c-4a07-8d82-79d50356706a",
+      "width": 364,
+      "x": -1,
+      "y": 372,
+      "zOrder": 3,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -45,14 +45,14 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 16,
+      "height": 407,
       "keepRatio": true,
       "layer": "",
-      "name": "Stone_Platform",
-      "persistentUuid": "eac452ed-7b5a-45e6-9f7f-f046614fe0b2",
-      "width": 245,
-      "x": 267,
-      "y": 578,
+      "name": "NewTiledSprite",
+      "persistentUuid": "1c51ca84-b1dd-4533-8c18-b0f5ad66518d",
+      "width": 3442,
+      "x": -1011,
+      "y": 722,
       "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
@@ -64,11 +64,28 @@
       "height": 0,
       "keepRatio": true,
       "layer": "",
-      "name": "Orange_Grass_9Patch",
-      "persistentUuid": "afc28a51-50c6-4580-88e9-3edb31fdd476",
+      "name": "Cowboy",
+      "persistentUuid": "b4bbaf39-c45f-4a0b-9b48-53e69bd3bfbb",
       "width": 0,
-      "x": 516,
-      "y": 535,
+      "x": 84,
+      "y": 310,
+      "zOrder": 4,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 254,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Orange_Grass_9Patch",
+      "persistentUuid": "3b825904-80b4-499e-bfe1-a73800d3e594",
+      "width": 223,
+      "x": -2,
+      "y": -8,
       "zOrder": 5,
       "numberProperties": [],
       "stringProperties": [],
@@ -76,16 +93,51 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 456,
       "keepRatio": true,
       "layer": "",
       "name": "Orange_Grass_9Patch",
-      "persistentUuid": "40bd8e86-00d5-4cea-b3ff-e51965c84fca",
-      "width": 0,
-      "x": 319,
-      "y": 396,
+      "persistentUuid": "9768defe-045e-4806-abe6-e737deffde6c",
+      "width": 48,
+      "x": 438,
+      "y": 445,
       "zOrder": 6,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 362,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Orange_Grass_9Patch",
+      "persistentUuid": "cdc77e5e-cdcc-4d4f-b7f8-aca1e16e248e",
+      "width": 326,
+      "x": 485,
+      "y": 538,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 139,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Orange_Grass_9Patch",
+      "persistentUuid": "aac23b88-9fbd-4b94-9ff9-266b5a38d596",
+      "width": 966,
+      "x": 220,
+      "y": -8,
+      "zOrder": 8,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -97,44 +149,11 @@
       "height": 16,
       "keepRatio": true,
       "layer": "",
-      "name": "Stone_Platform",
-      "persistentUuid": "f85a89cd-a72f-47fa-a95c-1e06d550c194",
-      "width": 87,
-      "x": 366,
-      "y": 414,
-      "zOrder": 7,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Orange_Grass_9Patch",
-      "persistentUuid": "5e1d1290-cb69-4f5a-8ead-50155c34a1bc",
-      "width": 0,
-      "x": 518,
-      "y": 293,
-      "zOrder": 8,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 318,
-      "keepRatio": true,
-      "layer": "",
-      "name": "NewTiledSprite",
-      "persistentUuid": "6a634130-221e-437e-9939-b856f35ce358",
-      "width": 1775,
-      "x": -289,
-      "y": 719,
+      "name": "Wood_Platform",
+      "persistentUuid": "97f717da-35e6-4b51-8bbe-ed443b355400",
+      "width": 200,
+      "x": 560,
+      "y": 347,
       "zOrder": 9,
       "numberProperties": [],
       "stringProperties": [],
@@ -142,16 +161,32 @@
     },
     {
       "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Smart_gunman",
+      "persistentUuid": "6aa82860-3568-40b6-a035-328f08245885",
+      "width": 0,
+      "x": 609,
+      "y": 478,
+      "zOrder": 10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 556,
+      "height": 402,
       "keepRatio": true,
       "layer": "",
       "name": "Orange_Grass_9Patch",
-      "persistentUuid": "52c24868-ca83-4e3e-8b5a-d4ef4e0ee035",
-      "width": 96,
-      "x": 58,
-      "y": 399,
+      "persistentUuid": "145bcf99-545c-4773-b1e6-0935e5a14552",
+      "width": 178,
+      "x": 810,
+      "y": 495,
       "zOrder": 11,
       "numberProperties": [],
       "stringProperties": [],
@@ -159,15 +194,16 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 48,
       "keepRatio": true,
       "layer": "",
-      "name": "Fried_Egg",
-      "persistentUuid": "d0756069-b990-44e9-b116-8edc27807971",
-      "width": 0,
-      "x": 457,
-      "y": 635,
+      "name": "Orange_Grass_9Patch",
+      "persistentUuid": "59996696-8b8e-417f-af74-2ee37188b4cc",
+      "width": 53,
+      "x": 867,
+      "y": 278,
       "zOrder": 12,
       "numberProperties": [],
       "stringProperties": [],
@@ -180,10 +216,10 @@
       "keepRatio": true,
       "layer": "",
       "name": "Fried_Egg",
-      "persistentUuid": "ac027574-5093-4305-8aaf-d7fc520f1856",
+      "persistentUuid": "149ea5da-6791-4116-9ea0-ca71ce91ba4f",
       "width": 0,
-      "x": 530,
-      "y": 504,
+      "x": 887,
+      "y": 250,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -196,10 +232,10 @@
       "keepRatio": true,
       "layer": "",
       "name": "Fried_Egg",
-      "persistentUuid": "5dcbb986-ac54-4412-980e-169ec65bcbbc",
+      "persistentUuid": "cd1c221e-5fa4-4007-b0a7-8ae198468e5d",
       "width": 0,
-      "x": 99,
-      "y": 381,
+      "x": 890,
+      "y": 467,
       "zOrder": 14,
       "numberProperties": [],
       "stringProperties": [],
@@ -212,10 +248,10 @@
       "keepRatio": true,
       "layer": "",
       "name": "Fried_Egg",
-      "persistentUuid": "004171bb-58ae-4381-bcf0-9657a604e835",
+      "persistentUuid": "708d82a7-1d1b-434d-b5fc-059a8938e4a6",
       "width": 0,
-      "x": 539,
-      "y": 265,
+      "x": 455,
+      "y": 420,
       "zOrder": 15,
       "numberProperties": [],
       "stringProperties": [],
@@ -223,15 +259,16 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 16,
       "keepRatio": true,
       "layer": "",
-      "name": "Cowboy",
-      "persistentUuid": "56a91101-6a30-453f-bd24-3ff006950016",
-      "width": 0,
-      "x": 321,
-      "y": 608,
+      "name": "Wood_Platform",
+      "persistentUuid": "c532f072-59e0-4484-8200-0923d8ddf25f",
+      "width": 87,
+      "x": 1053,
+      "y": 445,
       "zOrder": 16,
       "numberProperties": [],
       "stringProperties": [],
@@ -241,14 +278,14 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 1232,
+      "height": 48,
       "keepRatio": true,
       "layer": "",
       "name": "Orange_Grass_9Patch",
-      "persistentUuid": "762f56e5-6a45-4d9a-8632-226de6248937",
-      "width": 61,
-      "x": -3,
-      "y": -268,
+      "persistentUuid": "fe3bf19f-8163-43aa-ac70-f7c2e22c058b",
+      "width": 48,
+      "x": 1140,
+      "y": 444,
       "zOrder": 17,
       "numberProperties": [],
       "stringProperties": [],
@@ -258,14 +295,14 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 611,
+      "height": 439,
       "keepRatio": true,
       "layer": "",
       "name": "Orange_Grass_9Patch",
-      "persistentUuid": "140a5dab-fd5e-438c-b2d5-1fe01c7bb2a5",
-      "width": 1940,
-      "x": 680,
-      "y": 351,
+      "persistentUuid": "9d091286-22d8-4532-94f0-4ecb92ff3988",
+      "width": 100,
+      "x": 1187,
+      "y": 444,
       "zOrder": 18,
       "numberProperties": [],
       "stringProperties": [],
@@ -275,14 +312,31 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 330,
+      "height": 342,
       "keepRatio": true,
       "layer": "",
       "name": "Orange_Grass_9Patch",
-      "persistentUuid": "697dc5cb-1d09-4bd7-909d-ff69c69a6792",
-      "width": 962,
-      "x": 58,
-      "y": -267,
+      "persistentUuid": "515a1528-519a-4126-9609-b595aad3d0c7",
+      "width": 94,
+      "x": 1185,
+      "y": -7,
+      "zOrder": 19,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 113,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Big_Chain",
+      "persistentUuid": "40cf6c64-e9f4-43b5-b714-12693ce7ae57",
+      "width": 12,
+      "x": 1218,
+      "y": 332,
       "zOrder": 20,
       "numberProperties": [],
       "stringProperties": [],
@@ -294,110 +348,12 @@
       "height": 0,
       "keepRatio": true,
       "layer": "",
-      "name": "Spikes",
-      "persistentUuid": "ff79085a-bb23-44d6-b254-43933a2428f2",
+      "name": "Fried_Egg",
+      "persistentUuid": "bc0dcdab-98eb-4abf-9dab-1f6ba4288781",
       "width": 0,
-      "x": 888,
-      "y": 335,
+      "x": 638,
+      "y": 326,
       "zOrder": 21,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Spikes",
-      "persistentUuid": "06c1c7b9-b7e1-4f87-b3fe-c80763a0d1f3",
-      "width": 0,
-      "x": 904,
-      "y": 335,
-      "zOrder": 21,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Spikes",
-      "persistentUuid": "c2f105d5-7664-44b1-9d38-fed89c4b03a4",
-      "width": 0,
-      "x": 839,
-      "y": 336,
-      "zOrder": 21,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Spikes",
-      "persistentUuid": "9a26db5c-768a-40cd-93e2-425abba83bb9",
-      "width": 0,
-      "x": 871,
-      "y": 336,
-      "zOrder": 21,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 496,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Orange_Grass_9Patch",
-      "persistentUuid": "a073ef44-3365-4ff8-b05e-bb967ae4b282",
-      "width": 678,
-      "x": 1019,
-      "y": -268,
-      "zOrder": 24,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Spikes",
-      "persistentUuid": "17cd6987-54e1-4299-a220-26b0fe2d8292",
-      "width": 0,
-      "x": 856,
-      "y": 336,
-      "zOrder": 21,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 124,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Big_Chain",
-      "persistentUuid": "f6349abf-affa-43c2-84d4-653b6cb63fad",
-      "width": 13,
-      "x": 1115,
-      "y": 227,
-      "zOrder": 23,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -446,6 +402,15 @@
         },
         {
           "type": {
+            "value": "ResetTimer"
+          },
+          "parameters": [
+            "",
+            "\"GunmanMovementTimer\""
+          ]
+        },
+        {
+          "type": {
             "value": "SetNumberVariable"
           },
           "parameters": [
@@ -485,6 +450,142 @@
           ]
         }
       ]
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "Enemy",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CompareTimer"
+              },
+              "parameters": [
+                "",
+                "\"GunmanMovementTimer\"",
+                "<",
+                "1"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlatformBehavior::SimulateRightKey"
+              },
+              "parameters": [
+                "Smart_gunman",
+                "PlatformerObject"
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Smart_gunman",
+                "Animation",
+                "=",
+                "\"Walk\""
+              ]
+            },
+            {
+              "type": {
+                "value": "FlippableCapability::FlippableBehavior::FlipX"
+              },
+              "parameters": [
+                "Smart_gunman",
+                "Flippable",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CompareTimer"
+              },
+              "parameters": [
+                "",
+                "\"GunmanMovementTimer\"",
+                ">=",
+                "1"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlatformBehavior::SimulateLeftKey"
+              },
+              "parameters": [
+                "Smart_gunman",
+                "PlatformerObject"
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Smart_gunman",
+                "Animation",
+                "=",
+                "\"Walk\""
+              ]
+            },
+            {
+              "type": {
+                "value": "FlippableCapability::FlippableBehavior::FlipX"
+              },
+              "parameters": [
+                "Smart_gunman",
+                "Flippable",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01K6V26VSW23217KZKFVVB0YA8",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CompareTimer"
+              },
+              "parameters": [
+                "",
+                "\"GunmanMovementTimer\"",
+                ">=",
+                "4"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"GunmanMovementTimer\""
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
     },
     {
       "colorB": 228,
@@ -698,7 +799,7 @@
               },
               "parameters": [
                 "",
-                "\"level1\"",
+                "\"level2\"",
                 ""
               ]
             }
@@ -738,7 +839,7 @@
               },
               "parameters": [
                 "",
-                "\"level1\"",
+                "\"level2\"",
                 ""
               ]
             }
@@ -835,7 +936,7 @@
               },
               "parameters": [
                 "",
-                "\"level1\"",
+                "\"level2\"",
                 ""
               ]
             }
@@ -843,65 +944,6 @@
         }
       ],
       "parameters": []
-    },
-    {
-      "colorB": 228,
-      "colorG": 176,
-      "colorR": 74,
-      "creationTime": 0,
-      "folded": true,
-      "name": "Enemy",
-      "source": "",
-      "type": "BuiltinCommonInstructions::Group",
-      "events": [
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [
-            {
-              "type": {
-                "value": "PlatformBehavior::SimulateControl"
-              },
-              "parameters": [
-                "Smart_gunman",
-                "PlatformerObject",
-                "\"Right\""
-              ]
-            },
-            {
-              "type": {
-                "value": "Wait"
-              },
-              "parameters": [
-                "0.5"
-              ]
-            },
-            {
-              "type": {
-                "value": "PlatformBehavior::SimulateUpKey"
-              },
-              "parameters": [
-                "Smart_gunman",
-                "PlatformerObject"
-              ]
-            },
-            {
-              "type": {
-                "value": "Wait"
-              },
-              "parameters": [
-                "0.5"
-              ]
-            }
-          ]
-        }
-      ],
-      "parameters": []
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [],
-      "actions": []
     },
     {
       "colorB": 228,
@@ -1041,59 +1083,6 @@
           "width": 0
         }
       ],
-      "effects": [
-        {
-          "effectType": "Scene3D::HemisphereLight",
-          "name": "3D Ambient Hemisphere Light",
-          "doubleParameters": {
-            "elevation": 40,
-            "intensity": 0.33,
-            "rotation": 300
-          },
-          "stringParameters": {
-            "groundColor": "127;127;127",
-            "skyColor": "255;255;255",
-            "top": "Z+"
-          },
-          "booleanParameters": {}
-        },
-        {
-          "effectType": "Scene3D::DirectionalLight",
-          "name": "3D Sun Light",
-          "doubleParameters": {
-            "distanceFromCamera": 1500,
-            "elevation": 40,
-            "frustumSize": 4000,
-            "intensity": 0.75,
-            "minimumShadowBias": 0,
-            "rotation": 300
-          },
-          "stringParameters": {
-            "color": "255;255;255",
-            "shadowQuality": "medium",
-            "top": "Z+"
-          },
-          "booleanParameters": {
-            "isCastingShadow": true
-          }
-        }
-      ]
-    },
-    {
-      "ambientLightColorB": 200,
-      "ambientLightColorG": 200,
-      "ambientLightColorR": 200,
-      "camera3DFarPlaneDistance": 10000,
-      "camera3DFieldOfView": 45,
-      "camera3DNearPlaneDistance": 3,
-      "cameraType": "",
-      "followBaseLayerCamera": false,
-      "isLightingLayer": false,
-      "isLocked": false,
-      "name": "UI Layer",
-      "renderingType": "",
-      "visibility": true,
-      "cameras": [],
       "effects": [
         {
           "effectType": "Scene3D::HemisphereLight",
